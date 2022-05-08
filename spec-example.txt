@@ -1,0 +1,24 @@
+=: publish_at 2022-03-15
+=: title Plain text spec examples
+=: description Here are some examples of the plain text list format
+=: list_type decimal
+Hello world!
+I wonder where I'll float next?
+=> https://erock.io
+=> https://erock.io my website
+> this is a block quote.  I wonder how well it will work inside a list?
+# Header
+another item
+Back to basics
+## Subheader
+Doing great
+=< https://i.imgur.com/iXMNUN5.jpg archlinux
+
+feeling great
+```
+#!/usr/bin/env bash
+
+set -x
+
+echo "Here is a bash script"
+```
