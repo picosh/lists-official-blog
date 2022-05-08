@@ -1,0 +1,12 @@
+=: title Announcing subdomains for lists.sh
+=: description Blogs now have their own subdomain they can use
+Greetings!  I'm excited to announce that we have shipped subdomains for blogs.
+# before
+=> https://lists.sh/erock
+=> https://lists.sh/erock/blog-platforms
+# after
+=> https://erock.lists.sh
+=> https://erock.lists.sh/blog-platforms
+# notes
+We still support the old urls so don't worry about continuing to share them.  The goal of adding subdomains is so users feel like they have their own space to write lists.  I hope this makes everyone feel even more empowered to write lists on this platform and there are many more features on the roadmap coming up.
+Thanks for using lists.sh!

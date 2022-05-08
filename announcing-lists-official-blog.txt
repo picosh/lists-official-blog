@@ -1,0 +1,4 @@
+=: list_type none
+=: description official blog announcement
+Greetings!  I wanted to announce the official blog for lists.sh.  I'll be posting updates to this blog in an attempt to keep everyone up-to-date on the recent features and development to this blogging platform.
+Stay tuned for more updates and thanks for using the platform.
