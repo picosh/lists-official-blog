@@ -1,11 +1,11 @@
-=: title Manage your keys and a github action
+=: title A new github action and key management
 =: description Two new quality of life features to lists.sh
 
 I'm excited to announce a couple of new features to lists.sh.
 
 # Manage your keys from the CMS
 
-Now users can add multiple keys for a single account.  Manage your keys by logging into our CMS: `ssh <username>@lists.sh`.Then select "Manage keys."
+Now users can add multiple keys for a single account.  Manage your keys by logging into our CMS: `ssh <username>@lists.sh`. Then select "Manage keys."
 
 ## Features
 
