@@ -1,0 +1,25 @@
+=: title Manage your keys and a github action
+=: description Two new quality of life features to lists.sh
+
+I'm excited to announce a couple of new features to lists.sh.
+
+# Manage your keys from the CMS
+
+Now users can add multiple keys for a single account.  Manage your keys by logging into our CMS: `ssh <username>@lists.sh`.Then select "Manage keys."
+
+## Features
+
+You can add new keys to your account
+You can delete keys from your account
+If you delete all of your keys it will delete your account along with all its posts
+
+# New github action to publish posts
+
+Now you can publish changes to your blog via a github action.
+=> https://github.com/marketplace/actions/lists-publish-action github action marketplace
+=> https://github.com/neurosnap/lists-official-blog/blob/main/.github/workflows/publish.yml example workflow
+
+# Closing thoughts
+
+I've been having a blast hacking on this project and I'm delighted by all the lists being created here.  I have a couple more features on the roadmap that I want to add shortly.
+Once those are finished I plan on focusing on community building.
