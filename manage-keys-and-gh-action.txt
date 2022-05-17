@@ -15,7 +15,7 @@ If you delete all of your keys it will delete your account along with all its po
 
 # New github action to publish posts
 
-Now you can publish changes to your blog via a github action. I strongly recommend that you create a separate keypair specifically for your github action just in case github gets hacked and nefarious actors get access to your private key.
+Now you can publish changes to your blog via a github action. I strongly recommend that you create a separate keypair specifically for your github action since github can read the private key.
 => https://github.com/marketplace/actions/lists-publish-action github action marketplace
 => https://github.com/neurosnap/lists-official-blog/blob/main/.github/workflows/publish.yml example workflow
 
