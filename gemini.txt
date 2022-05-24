@@ -1,0 +1,5 @@
+I'm excited to announce we have launch gemini support!
+=> gemini://lists.sh
+It was always our goal to launch the product with gemini support.  Gemini is a new kind of protocol that emphasizes reading and writing documents.  It's the perfect blend of readability and ease-of-use.
+If you haven't downloaded a gemini client, I highly recommend it.
+=> https://github.com/kr1sp1n/awesome-gemini awesome-gemini
