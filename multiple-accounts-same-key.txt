@@ -2,4 +2,4 @@ I'm excited to announce another feature!
 Now users can create as many accounts as they want with the same keypair.  There's a special user `new` that when used to ssh into our CMS will send you to the account creation screen.
 > ssh new@lists.sh
 If you decide to create mutiple accounts with the same keypair, the only caveat is you'll need to always provide the username of the account you want to use for `ssh` and `scp`.
-Honestly, I'm feeling like at this point we are pretty much feature complete.  I imagine I'm going to spend more time using the product that making code changes to it.
+Honestly, I'm feeling like at this point we are pretty much feature complete.  I imagine I'm going to spend more time using the product than making code changes to it.
