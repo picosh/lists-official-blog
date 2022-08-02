@@ -1,5 +1,5 @@
-=: title team pico's blog
-=: description official blog of lists.sh and pico.sh
+=: title lists official blog
+=: description official blog of lists.sh
 => https://pico.sh home
 => irc://irc.libera.chat/#pico.sh irc #pico.sh
 => https://lists.sr.ht/~erock/pico.sh mailing list
