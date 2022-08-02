@@ -1,4 +1,4 @@
-=: title lists official blog
+=: title lists' official blog
 =: description official blog of lists.sh
 => https://pico.sh home
 => irc://irc.libera.chat/#pico.sh irc #pico.sh
