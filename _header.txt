@@ -1,2 +1,8 @@
-=: description the official blog of lists.sh
-=> https://github.com/neurosnap/lists-official-blog repo
+=: title team pico's blog
+=: description official blog of lists.sh and pico.sh
+=> https://pico.sh home
+=> irc://irc.libera.chat/#pico.sh irc #pico.sh
+=> https://lists.sr.ht/~erock/pico.sh mailing list
+=> https://todo.sr.ht/~erock/pico.sh ticket tracker
+=> mailto:hello@pico.sh email
+=> https://git.sr.ht/~erock/lists-official-blog repo
