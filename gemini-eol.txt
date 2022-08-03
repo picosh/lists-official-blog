@@ -1,0 +1,13 @@
+=: title gemini service notice
+=: description we're shutting down our gemini server
+=: publish_at 2022-08-03
+
+We've decided to shut down our gemini service for lists.sh.  When I originally created this service I always wanted to have a gemini server for it.  The specification was inspired by gemini and I thought it would resonate with the potential users of this blog.
+
+However, as I've been following metrics of the gemini server, there has been very little usage.  We've also expanded how many services we are building using the same technology which required us to regularly update the gemini code.
+
+To prove my point about its lack of usage, the service was accidentally stopped a few weeks ago as part of a larger codebase refactor and we've received zero messages regarding its availability.
+
+The reality of the situation is that our services are undergoing active development and while gemini support sounded like a great idea in the beginning, it's clear that it was not successful.
+
+So it pains me to say this but we are permanently shutting it down and removing the code.
