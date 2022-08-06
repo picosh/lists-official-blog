@@ -2,8 +2,8 @@
 =: description lists now supports nested lists
 =: publish_at 2022-08-05
 
-I recently deployed a change to our list parser that adds support for nested lists.  The specification explains how it works but essentially you just tab to nest items
+We recently deployed a change to our list parser that adds support for nested lists.  The specification explains how it works but essentially you just tab to nest items.
     => /spec#nested-lists Check out the specification to learn how to use it.
-    => https://git.sr.ht/~erock/pico/commit/0e93909d4d244164f7fb6c9342ce7d8a0c956dbd git commit that implements nested lists
-Team pico has a lot planned for all the services we want to build
-    => https://hey.prose.sh So be sure to subscribe to our main blog
+    => https://git.sr.ht/~erock/pico/commit/0e93909d4d244164f7fb6c9342ce7d8a0c956dbd Git commit that implements nested lists.
+Over at pico HQ we are ramping up to build a lot more services.
+    => https://hey.prose.sh So be sure to subscribe to our main blog.
