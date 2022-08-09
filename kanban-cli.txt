@@ -5,3 +5,4 @@
 => https://github.com/smallhadroncollider/taskell
 => https://github.com/singalhimanshu/taskgo
 => https://github.com/PlankCipher/kabmat
+=> https://github.com/keigezellig/kanbanwarrior
