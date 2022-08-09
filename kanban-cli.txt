@@ -1,0 +1,7 @@
+=: title Kanban TUI
+=: description A list of kanban style TUI apps
+=: tags kanban, research
+
+=> https://github.com/smallhadroncollider/taskell
+=> https://github.com/singalhimanshu/taskgo
+=> https://github.com/PlankCipher/kabmat
