@@ -1,3 +1,6 @@
+=: description A list of image hosting websites
+=: tags imgs, research
+
 => https://imgur.com
 => https://snap.as
 => https://0x0.st

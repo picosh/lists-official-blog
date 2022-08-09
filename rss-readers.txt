@@ -1,5 +1,6 @@
 =: title RSS Readers
 =: description market research on rss readers
+=: tags imgs, research
 
 # reader apps
 

@@ -1,3 +1,6 @@
+=: description A list of image file extensions
+=: tags imgs, research
+
 # raster
 jpg (.jpg, .jpeg, .jpe .jif, .jfif, .jfi)
 jpeg 2000 (.jp2, .j2k, .jpf, .jpx, .jpm, .mj2)
