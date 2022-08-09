@@ -1,0 +1,24 @@
+=: title RSS Readers
+=: description market research on rss readers
+
+# reader apps
+
+=> https://www.inoreader.com
+=> https://feedly.com
+=> https://feedbin.com
+=> https://sumi.news
+=> https://chrome.google.com/webstore/detail/feedbro/mefgmmbdailogpfhfblcnnjfmnpnmdfa?hl=en-US
+=> https://newsblur.com
+=> https://newsboat.org
+=> https://betamagic.nl/products/newsexplorer.html
+=> https://bazqux.com/
+=> https://apps.kde.org/akregator/
+
+# rss to email
+
+=> https://mailbrew.com
+=> https://briefcake.com
+=> https://blogtrottr.com
+=> https://feedmail.org
+=> https://mailchimp.com/features/rss-to-email
+=> https://rssby.email
