@@ -6,7 +6,7 @@ We've decided to shut down our gemini service for lists.sh.  When I originally c
 
 However, as I've been following metrics of the gemini server, there has been very little usage.  We've also expanded how many services we are building using the same technology which required us to regularly update the gemini code.
 
-To prove my point about its lack of usage, the service was accidentally stopped a few weeks ago as part of a larger codebase refactor and we've received zero messages regarding its availability.
+To prove my point about its lack of usage, the service was accidentally stopped a few weeks ago part of a larger codebase refactor and we've received zero messages regarding its availability.
 
 The reality of the situation is that our services are undergoing active development and while gemini support sounded like a great idea in the beginning, it's clear that it was not successful.
 
