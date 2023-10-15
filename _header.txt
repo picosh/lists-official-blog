@@ -1,8 +1,3 @@
 =: title lists' official blog
 =: description official blog of lists.sh
 => https://pico.sh home
-=> irc://irc.libera.chat/#pico.sh irc #pico.sh
-=> https://lists.sr.ht/~erock/pico.sh mailing list
-=> https://github.com/picosh/pico/issues ticket tracker
-=> mailto:~erock/pico.sh@lists.sr.ht email
-=> https://git.sr.ht/~erock/lists-official-blog repo
