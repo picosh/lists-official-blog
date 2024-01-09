@@ -1,3 +1,3 @@
 =: title lists' official blog
 =: description official blog of lists.sh
-=> https://pico.sh home
+=> https://pico.sh docs
